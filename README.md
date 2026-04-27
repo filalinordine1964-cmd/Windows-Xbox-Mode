@@ -4,7 +4,7 @@
 
 > **Windows Xbox Mode** — Turns your Windows PC into a true Xbox-like gaming experience with optimized performance, controller support, and modern interface.
 
-[![Stars](https://img.shields.io/github/stars/homer66/Windows-Xbox-Mode)](https://github.com/homer66/Windows-Xbox-Mode) [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/homer66/Windows-Xbox-Mode)](https://github.com/homer66/Windows-Xbox-Mode) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 **Windows Xbox Mode** is a lightweight tool that transforms your Windows desktop into an Xbox-style gaming environment. It provides better controller support, optimized game launch experience, quick access to your library, and enhanced performance settings for the best possible gaming experience on PC.
 
